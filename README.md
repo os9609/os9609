@@ -1,4 +1,4 @@
-- 👋 Hi, I’m shotaro ohkawa @os9609
+- 👋 Hi, I’m shotaro ohkawa @shotaro-ohkawa
 - 👀 I’m interested in Foreign Language
 - 🌱 I’m currently learning github
 - 💞️ I’m looking to collaborate on ...
